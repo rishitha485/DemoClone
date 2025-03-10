@@ -1,2 +1,3 @@
 this demonstrates cloning
 hello
+how are you
